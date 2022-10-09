@@ -30,6 +30,6 @@ Deliverable 4: Visualizing Cryptocurrencies Results
 
 ![2D Scatter Plot](https://user-images.githubusercontent.com/103234661/194738119-5afe7a38-393a-4962-9cb6-72bf40e88f6f.png)
 
-### Crypto Dataframe Table
+### Crypto Dataframe
 
 ![Dataframe](https://user-images.githubusercontent.com/103234661/194738165-83a26a2d-43d2-44ea-895e-6821d5e0be21.png)
